@@ -1,0 +1,15 @@
+# Virtual Environment
+env/
+venv/
+
+# Dataset and Generated Model
+dataset/
+trainer.yml
+
+# Python Cache files (ไฟล์ขยะที่ Python แอบสร้าง)
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
